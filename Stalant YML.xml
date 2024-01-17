@@ -63,7 +63,7 @@
 <sales_notes>Первичный прием</sales_notes>
 <set-ids>glavvrach, stomatolog, implantolog,khirurg</set-ids>
 <!-- специальности через запятую -->
-<picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+<picture>https://thumb.tildacdn.com/tild3563-6139-4264-a239-623138343431/-/format/webp/_.png</picture>
 <description>Разработал авторскую методику регенерации костной ткани, которая получила признание международного сообщества стоматологов и не имеет аналогов в мире. Получил сертификат специалиста «Хирургическая стоматология». Член международных сообществ и ассоциаций врачей стоматологов, адепт глубоко научного подхода с фокусом на тотальную диагностику и проработку каждого шага восстановления здоровья зубов.</description>
 <categoryId>1</categoryId>
 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
@@ -160,7 +160,7 @@
 <sales_notes>Первичный прием</sales_notes>
 <set-ids>stomatolog, implantolog,khirurg</set-ids>
 <!-- специальности через запятую -->
-<picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+<picture>https://thumb.tildacdn.com/tild3861-6638-4230-b339-363661376161/-/format/webp/_.png</picture>
 <description>Можно обратиться за сложными случаями удаления зубов, хирургией полости рта, имплантацией, костной пластикой и тотальной работой.</description>
 <categoryId>1</categoryId>
 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
@@ -240,7 +240,7 @@
 <sales_notes>Первичный прием</sales_notes>
 <set-ids>stomatolog,ortoped</set-ids>
 <!-- специальности через запятую -->
-<picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+<picture>https://thumb.tildacdn.com/tild3433-3064-4533-b036-313565656131/-/format/webp/_.png</picture>
 <description>Можно обратиться за всем спектром ортопедических услуг; а так же за протезированием зубов коронками и винирами, на имплантах, тотальным протезированием.</description>
 <categoryId>1</categoryId>
 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
@@ -317,7 +317,7 @@
 <sales_notes>Первичный прием</sales_notes>
 <set-ids>stomatolog,ortoped,estetika</set-ids>
 <!-- специальности через запятую -->
-<picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+<picture>https://thumb.tildacdn.com/tild3439-3838-4230-b865-386562666435/-/format/webp/_.png</picture>
 <description>Можно обратиться за всем спектром ортопедических услуг; а так же за протезированием зубов коронками и винирами, на имплантах, тотальным и эстетическим протезированием.</description>
 <categoryId>1</categoryId>
 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
@@ -394,7 +394,7 @@
 <sales_notes>Первичный прием</sales_notes>
 <set-ids>stomatolog,endodonist,microscope</set-ids>
 <!-- специальности через запятую -->
-<picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+<picture>https://thumb.tildacdn.com/tild3037-6664-4930-b664-306365623733/-/format/webp/_.png</picture>
 <description>Можно обратиться за терапевтическим лечением, лечением кариеса и его осложнений, за проф. гигиеной.</description>
 <categoryId>1</categoryId>
 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
